@@ -1,0 +1,7 @@
+<root idTransform="3">
+	<child id="1">This is child 1</child>
+	<child id= "2">This is child 2</child>
+	<child id = "3">This is child 3</child>
+	<child id = "4">This is child 4</child>
+	<child id = "5">This is child 5</child>
+</root>
